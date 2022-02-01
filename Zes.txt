@@ -1,0 +1,5 @@
+PaaS
+It stands for Platform as a Service. It is a runtime Environment. It is used by the programmer or developer to develop, test, run, deploy and manage the applications.
+In PaaS, back end scalability is managed by the cloud service provider where end users don’t need to worry about managing the infrastructure (servers, storage and networking) .
+ 
+PaaS includes infrastructure and platform (middleware, development tools, database mana
